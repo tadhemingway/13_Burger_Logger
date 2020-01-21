@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(244, 205, 93);
+}
+
+img {
+    height: 95%;
+    width: 35%;
+}
+
+div {
+    text-align: center;
+}
+
+button {
+    font-weight: bold;
+}
+
+textarea {
+    text-align: center;
+    border-radius: 4px;
+    font-size: 120%;
+    resize: none;
+    border-color: rgb(201, 201, 201)
+}
+
+.create-burger-list {
+    font-weight: 500;
+    border-color: rgb(201, 201, 201);
+}
+
+.eat-burger-list {
+    font-weight: 500;
+    color: rgb(143, 143, 143);
+    border-color: rgb(201, 201, 201);
+}
+
+.main-title {
+    color: rgb(224, 2, 2);
+}
+
+.devour-btn {
+    margin-left: 10%;
+    background-color: none;
+    border-radius: 4px;
+}
+
+.delete-btn {
+    margin-left: 10%;
+    background-color: none;
+    border-radius: 4px;
+    color: rgb(75, 75, 75);
+}
+
+.submit-btn {
+    background-color: rgb(14, 14, 221);
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 1px 1px rgb(36, 36, 36);
+}
+
+.submit-btn:hover {
+background-color: rgb(60, 60, 221);
+  }
